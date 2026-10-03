@@ -7,11 +7,14 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_LINK">
+  <a href="https://www.linkedin.com/in/mai-gamalll/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/maigamal2269">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://portfolionest.my.canva.site/cream-and-pink-simple-website-desktop-prototype">
+    <img src="https://img.shields.io/badge/Portfolio-Website-8A5A83?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
@@ -79,7 +82,7 @@ A hands-on Big Data project developed as part of the Huawei and NTI training pro
 **Focus:** Big Data • Data Processing • Distributed Data Technologies
 
 <p>
-  <a href="YOUR_BIG_DATA_REPOSITORY_LINK">
+  <a href="https://github.com/raghad006/ntiproject">
     <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
