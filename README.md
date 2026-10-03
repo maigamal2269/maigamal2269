@@ -48,6 +48,16 @@ Currently, I'm building my skills across programming, databases, data processing
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-FCC624?style=for-the-badge&logo=MongoDB&logoColor=black" />
+  <img src="https://img.shields.io/badge/Elasticsearch-F05032?style=for-the-badge&logo=Elasticsearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flink-FCC624?style=for-the-badge&logo=Flink&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kafka-F05032?style=for-the-badge&logo=Kafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flume-FCC624?style=for-the-badge&logo=Flume&logoColor=black" />
+  <img src="https://img.shields.io/badge/Hbase-F05032?style=for-the-badge&logo=Hbase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sqoop-FCC624?style=for-the-badge&logo=Sqoop&logoColor=black" />
+  <img src="https://img.shields.io/badge/Yarn-F05032?style=for-the-badge&logo=Yarn&logoColor=white" />
+  
+  
 </p>
 
 ### Analytics & Visualization
@@ -55,6 +65,7 @@ Currently, I'm building my skills across programming, databases, data processing
 <p>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau%20BI-F2C811?style=for-the-badge&logo=Tableau&logoColor=black" />
 </p>
 
 ---
