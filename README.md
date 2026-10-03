@@ -1,31 +1,92 @@
-Hey, I'm Mai Gamal
-
-Computer Science & Statistics Student · Data Engineering Enthusiast
+<h1 align="center">Hi, I'm Mai Gamal</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maigamal2269&style=for-the-badge" alt="Profile Views"/>
-</p>About Me
+  <strong>Computer Science & Statistics Student</strong>
+  <br/>
+  Data Engineering • Big Data • Data Analytics
+</p>
 
-I’m a Computer Science and Statistics student with a growing interest in data and technology.
+<p align="center">
+  <a href="YOUR_LINKEDIN_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/maigamal2269">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-My main interests are Data Engineering, Big Data, and Data Analytics, with a focus on understanding how data is collected, processed, transformed, and turned into meaningful insights.
+---
 
-I enjoy learning through hands-on projects, exploring new technologies, and building a strong foundation in data-driven problem solving.
+## About Me
 
-Currently, I’m continuing to expand my knowledge and work on projects that bring together programming, statistics, and data.
+I'm a Computer Science and Statistics student with a growing interest in data and technology.
 
-Tech Stack
+My main interests are **Data Engineering, Big Data, and Data Analytics**, with a focus on understanding how data is collected, processed, transformed, and turned into meaningful insights.
 
-"Python" (https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-"SQL" (https://img.shields.io/badge/SQL-4479A1?logo=sql&logoColor=white)
-"Apache Spark" (https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white)
-"Pandas" (https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-"Power BI" (https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
-"Excel" (https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
-"Git" (https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-"Linux" (https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+I enjoy learning through hands-on projects, exploring new technologies, and applying what I learn to real-world data problems.
 
-What I'm Exploring
+Currently, I'm building my skills across programming, databases, data processing, analytics, and Big Data technologies.
+
+---
+
+## Tech Stack
+
+### Programming & Data
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
+
+### Big Data & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+### Analytics & Visualization
+
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</p>
+
+---
+
+## Featured Projects
+
+### Enterprise E-Commerce Predictive Analytics
+
+A data analytics project developed as part of the DEPI graduation project, focused on analyzing e-commerce data and transforming it into meaningful business insights.
+
+**Focus:** Data Analysis • Data Modeling • Power BI • Business Insights
+
+<p>
+  <a href="https://github.com/DuaA-A/Enterprise-E-Commerce-Predictive-Analytics">
+    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### Big Data Project — Huawei & NTI
+
+A hands-on Big Data project developed as part of the Huawei and NTI training program, applying Big Data concepts and technologies to a practical project.
+
+**Focus:** Big Data • Data Processing • Distributed Data Technologies
+
+<p>
+  <a href="YOUR_BIG_DATA_REPOSITORY_LINK">
+    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## What I'm Exploring
 
 - Data Engineering
 - Big Data Technologies
@@ -34,21 +95,17 @@ What I'm Exploring
 - Databases & Data Warehousing
 - Statistics & Machine Learning
 
-Featured Projects
+---
 
-Enterprise E-Commerce Predictive Analytics
+## GitHub Stats
 
-A data analytics project focused on analyzing e-commerce data and extracting meaningful business insights.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maigamal2269&show_icons=true&hide_border=true&theme=default" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maigamal2269&layout=compact&hide_border=true&theme=default" height="160"/>
+</p>
 
-"View Project" (https://github.com/DuaA-A/Enterprise-E-Commerce-Predictive-Analytics)
+---
 
-Big Data Project — Huawei & NTI
-A hands-on Big Data project developed as part of the Huawei and NTI training program, focusing on practical data processing and Big Data technologies.
-"View Project" (https://github.com/raghad006/ntiproject)
-GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maigamal2269&layout=compact&theme=dark" alt="Top Languages"/>
-</div>---
-
-Always learning. Always building. Always curious about what data can reveal.
+<p align="center">
+  <i>Learning through data, building through practice, and growing one project at a time.</i>
+</p>
