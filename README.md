@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,24,35&height=180&section=header&text=Welcome%20To%20My%20Profile&fontSize=32&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" />
+</p>
+
 <h1 align="center">Hi, I'm Mai Gamal</h1>
 
 <p align="center">
@@ -56,8 +60,6 @@ Currently, I'm building my skills across programming, databases, data processing
   <img src="https://img.shields.io/badge/Hbase-F05032?style=for-the-badge&logo=Hbase&logoColor=white" />
   <img src="https://img.shields.io/badge/Sqoop-FCC624?style=for-the-badge&logo=Sqoop&logoColor=black" />
   <img src="https://img.shields.io/badge/Yarn-F05032?style=for-the-badge&logo=Yarn&logoColor=white" />
-  
-  
 </p>
 
 ### Analytics & Visualization
